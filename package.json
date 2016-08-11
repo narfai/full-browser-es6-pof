@@ -1,0 +1,15 @@
+{
+  "name": "full-browser-es6-pof",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MPL-2",
+  "dependencies": {
+    "babel-standalone": "^6.12.0",
+    "requirejs": "^2.2.0"
+  }
+}
